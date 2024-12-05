@@ -18,10 +18,4 @@ This repository contains basic operations on Python's built-in data structures: 
    - Removing an element using `remove()`
    - Modifying a set by removing and adding elements (since sets do not allow direct modification)
 
-## Example Code:
-The code demonstrates how to:
-- Create and modify a list, dictionary, and set.
-- Perform basic operations such as adding, removing, and modifying elements.
 
-## Usage:
-Clone this repository to practice and understand how Python’s built-in data structures work. This will help in building a strong foundation for more advanced data manipulation tasks.
