@@ -1,0 +1,37 @@
+# create list
+fruits =["Apple", "Banana", "Mango", "Orange", "Grapes"]
+fruits
+#Add an element to the list
+fruits.append('cherry')
+fruits
+#remove an to the list
+fruits.remove('cherry')
+fruits
+#modify my list
+fruits[1] ='pineapple'
+fruits
+#create dictionary
+dict ={'name':"bhaven","age":23,"city":"chennai"}
+dict
+#add an element to the dictionary
+dict['gender'] ='M'
+dict
+#remove an element from dictionary
+dict.pop("gender")
+dict
+#modify the dictionary
+dict['name'] ='suri'
+dict
+#create set
+animal ={"lion",'tiger','leopard','dog','cat'}
+animal
+#add an element to set
+animal.add('wolf')
+animal
+#remove an element from set
+animal.remove('wolf')
+animal
+#modify element in set
+animal.remove('cat') #cant modify directly, need to remove an element which is to be modify
+animal.add('wolf')#after remove , add new one
+animal
